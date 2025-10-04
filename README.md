@@ -2,7 +2,7 @@
 
 I'm a Cybersecurity and Digital Forensics student at the Open University of Kenya (OUK), driven by a mission to build secure, intelligent, and scalable systems that solve real-world problems.
 
-Currently pursuing a professional certificate in **Generative AI Applications** through OUK in partnership with **BCS International** and **Jaseci Labs**, I’m at the forefront of integrating AI into cybersecurity, automation, and digital forensics.
+Currently pursuing a professional certificate in **Generative AI Applications** through OUK in partnership with **BCS International** and **Jaseci Labs**, I am at the forefront of integrating AI into cybersecurity, automation, and digital forensics.
 
 ## 🚀 What I Do
 - Build Python-based tools for data capture, analysis, and automation
